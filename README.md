@@ -2,7 +2,7 @@
 
 This repository contains the anonymized datasets associated with the paper:
 
-**UCLLM: A User-Centered Evaluation Framework for Large Language Models**
+**Beyond Benchmarks: A User-Centric Framework for Evaluating Large Language Models**
 
 The released materials support transparency and reproducibility for the pilot study evaluating the *Trust & Transparency* dimension of UCLLM through epistemic stance manipulation.
 
