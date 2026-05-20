@@ -1,0 +1,193 @@
+participant_id;model;stance_condition;perceived_certainty;trust;actionability;overall_enjoyment;post_interaction_reflection;chat_duration_ms
+P01;gpt4;low;7;7;7;6;Assistant thought halal was only Middle Eastern food;668402
+P01;gemini;low;7;7;7;5;Assistant gives long unnecessary answers;1552333
+P01;gpt4;high;7;7;7;7;I liked that the Assistant provided a detailed breakdown of activities, costs and transportation ;461030
+P01;claude;low;7;7;7;7;Different set of initial questions than most;443609
+P01;deepseek;low;7;7;7;7;Assistant asked good questions and reminded of a certain historical era Im interested in. ;1333897
+P01;gemini;high;7;7;7;7;;244558
+P01;deepseek;high;7;7;6;6;;589140
+P01;claude;high;5;5;5;5;;702486
+P02;gpt4;low;4;1;2;1;;1107699
+P02;gpt4;high;2;1;1;2;;761930
+P02;gemini;high;7;6;7;7;;1037354
+P02;claude;low;6;5;5;6;;148046
+P02;gemini;low;5;2;4;3;;1147994
+P02;deepseek;high;3;4;4;1;;1003170
+P02;claude;high;6;6;5;7;;316230
+P02;deepseek;low;7;7;7;7;;387737
+P03;gpt4;high;5;5;5;4;;705958
+P03;claude;low;6;6;6;6;;573791
+P03;gpt4;low;5;5;5;4;;706956
+P03;gemini;high;6;6;6;6;;588237
+P03;claude;high;5;5;5;4;;705124
+P03;deepseek;high;4;4;3;3;Model did not respond in time two times.;823746
+P03;gemini;low;6;6;6;6;;572743
+P03;deepseek;low;4;4;5;4;model did not respond in time once;523861
+P04;gpt4;high;5;4;3;3;I did not like this one a lot, since it had worse suggestions than the previous models by far, and required more detailed prompts to reach my goal;345002
+P04;claude;low;7;7;7;7;I really liked this one since it had suggestions of cities that was not mentioned by any of the previous models, and it was detailed as well;248113
+P04;claude;high;5;4;4;3;I felt like the price ranges were a bit wide which was a bit concerning, and i felt like that the model lacked detail, but I liked that it eliminated las vegas when i specified the budget;296619
+P04;deepseek;low;6;6;6;6;I liked it, but it did not have any special characteristic worth mentioning ( it was like model 1 and 2), and also if i had to reevaluate i would have changed my model 2 and 1 evaluation to be a bit less positive;517643
+P04;gemini;low;7;6;6;5;I felt this model was so detailed but sometimes added unnecessary details. Overall, I liked the info it suggested;499724
+P04;gpt4;low;7;7;7;7;This was the best up until now, since the model asked first for key answers from me before suggesting a plan on its own. Also, i felt like the prices suggested were more realistic than the previous two. The answers to the survey was a bit like the last one since i didnt have trouble with the last one but this was better;527827
+P04;gemini;high;7;7;7;7;I have liked this one more than the previous one, since it hyper-fixated on going to Philadelphia instead of New York due to the budget constraints;597568
+P04;deepseek;high;6;6;7;5;;1722674
+P05;gemini;high;6;6;7;6;;489246
+P05;deepseek;high;5;3;2;4;I asked the assistant for cities similar to Tokyo. One of the suggestions was Istanbul, which completely threw me off. ;455597
+P05;claude;low;6;6;6;7;;582614
+P05;claude;high;7;7;7;7;this is one of the better assistants that I interacted with. Fast responses, straight to the point and friendly at the same time. ;314311
+P05;gpt4;high;4;4;5;5;;533526
+P05;deepseek;low;7;7;7;7;this is the most detailed and confident assistant.;458353
+P05;gemini;low;7;6;6;4;at first I felt the model was unsure of its answer, but when I asked it if it's sure about the recommendation, it answered with very high confidence and gave me reasons for its recommendation based on my preference;1433182
+P05;gpt4;low;6;7;6;7;;553028
+P06;claude;high;5;4;3;2;I did not enjoy this one, all its suggestions were in USA, it wasn't diverse and it had a boring tone;521736
+P06;gemini;low;7;7;7;7;very detailed and has a friendly yet confident tone;396748
+P06;deepseek;high;7;7;7;7;better than first assistant;480520
+P06;gpt4;high;6;6;6;7;I liked that it arranged the times of each day, making me not worry about any planning;278181
+P06;claude;low;6;7;7;6;;200256
+P06;gpt4;low;7;7;7;7;very fast, also I enjoyed this conversation the most. Accurate and straight to the point.;343587
+P06;deepseek;low;5;5;5;5;;837472
+P06;gemini;high;7;7;7;7;this assistant was spoke confidently and gave real estimates;370508
+P07;claude;high;4;4;5;4;;263836
+P07;gemini;low;5;5;6;4;;221348
+P07;gemini;high;7;7;7;7;;573643
+P07;gpt4;high;4;4;3;2;;462847
+P07;gpt4;low;5;5;5;4;;257380
+P07;claude;low;7;7;7;7;;572562
+P07;deepseek;low;4;4;3;2;;461328
+P07;deepseek;high;6;5;4;4;;369039
+P08;deepseek;high;7;7;6;7;;189022
+P08;claude;low;7;6;6;5;;384670
+P08;gemini;low;7;7;7;7;;218545
+P08;claude;high;5;5;5;7;;182122
+P08;gpt4;high;6;7;7;7;;516200
+P08;gemini;high;6;7;6;6;;200505
+P08;gpt4;low;7;7;7;7;;309848
+P08;deepseek;low;7;7;7;7;;204916
+P09;gemini;low;5;5;5;5;;316977
+P09;gemini;high;6;7;7;7;;512534
+P09;gpt4;high;4;5;6;6;;267923
+P09;claude;low;6;7;7;7;;342270
+P09;gpt4;low;6;7;7;7;;339752
+P09;deepseek;high;6;4;4;4;;360749
+P09;deepseek;low;5;5;5;5;;318489
+P09;claude;high;7;7;7;7;;248999
+P10;gpt4;high;6;6;6;7;It was systematic and to the point. It was also faster than the other AI models ;282640
+P10;claude;high;6;7;7;7;;335724
+P10;deepseek;high;6;6;6;7;;634109
+P10;gpt4;low;6;6;6;6;;700917
+P10;gemini;low;6;6;6;5;;546137
+P10;gemini;high;6;6;6;6;It planned all the details without the need for a lot of detailed prompts ;698660
+P10;deepseek;low;6;6;6;7;It felt more human;635303
+P10;claude;low;6;7;7;7;It was also faster than and systematic. It gave solid info without too much talking ;336772
+P11;claude;high;2;4;3;3;;288558
+P11;deepseek;high;5;6;6;7;;315444
+P11;gemini;high;7;7;7;7;best one;400162
+P11;deepseek;low;6;7;6;6;;376725
+P11;gpt4;low;7;6;6;5;;203324
+P11;gemini;low;6;6;6;5;the responses were very slow;468921
+P11;claude;low;7;6;6;5;;345762
+P11;gpt4;high;6;6;6;6;;227841
+P12;gemini;low;7;7;7;7;;192723
+P12;claude;low;7;7;7;7;;112998
+P12;gpt4;high;7;7;7;7;I liked that the Assistant provided a detailed breakdown of activities, costs and transportation ;462702
+P12;gemini;high;7;7;7;7;;243681
+P12;claude;high;7;7;7;7;;116515
+P12;deepseek;low;7;7;7;7;;189011
+P12;gpt4;low;7;7;7;7;;146080
+P12;deepseek;high;7;7;7;7;;188348
+P13;deepseek;low;5;5;5;4;;540290
+P13;claude;low;7;7;7;7;;550866
+P13;deepseek;high;4;5;5;5;;463517
+P13;gemini;high;7;5;6;7;the assistant isn't up to date, since the conversion rate between USD and EGP isn't right;764379
+P13;claude;high;6;6;7;6;;341580
+P13;gpt4;high;2;3;3;3;;1173223
+P13;gpt4;low;5;5;5;4;;360709
+P13;gemini;low;7;7;7;7;best assistant so far;401146
+P14;deepseek;high;6;6;6;7;Seemed to understand exactly what I wanted with my prompts.;322442
+P14;gpt4;high;6;6;6;7;Seemed to understand exactly what I wanted with my prompts.;320828
+P14;gemini;low;4;2;2;3;Without real-time info it falls short.;368260
+P14;claude;high;1;2;2;2;Misunderstood prompts.;533219
+P14;claude;low;5;6;5;5;;787539
+P14;gpt4;low;4;3;3;3;Standard dated LLM. feels like a 70B? probably Meta, it seems to have no access to the internet which is not ideal.;2383687
+P14;deepseek;low;5;6;5;4;too much emojis but good info;467097
+P14;gemini;high;4;3;3;3;Standard dated LLM. feels like a 70B? probably Meta, it seems to have no access to the internet which is not ideal.;2381842
+P15;claude;low;4;4;4;4;the assistant before this one was better at suggesting a barcelona trip;169018
+P15;gemini;high;7;7;7;7;;335566
+P15;gpt4;low;6;6;6;6;;182977
+P15;claude;high;5;3;3;3;;238465
+P15;deepseek;high;5;4;4;4;;417734
+P15;gemini;low;7;7;7;7;;499400
+P15;gpt4;high;7;7;7;7;;998628
+P15;deepseek;low;5;4;5;6;;323570
+P16;gemini;low;6;6;6;6;;512083
+P16;gpt4;high;7;7;7;7;;361798
+P16;deepseek;low;7;7;7;6;;482497
+P16;deepseek;high;7;7;7;7;;428260
+P16;gemini;high;7;7;7;7;;340646
+P16;claude;high;7;7;7;7;;249173
+P16;claude;low;6;6;5;6;;355649
+P16;gpt4;low;7;7;7;7;;320488
+P17;gpt4;high;7;7;7;7;;685393
+P17;gpt4;low;7;7;7;7;;1196485
+P17;deepseek;low;7;7;7;7;;1254450
+P17;gemini;high;7;7;7;7;;1067731
+P17;claude;high;7;7;7;7;;1083763
+P17;deepseek;high;7;7;7;7;;1022357
+P17;gemini;low;6;6;6;6;;1964198
+P17;claude;low;7;7;7;7;;995876
+P18;claude;high;6;7;7;7;;175659
+P18;gemini;high;7;6;7;6;;257490
+P18;gpt4;high;7;6;7;5;;605755
+P18;claude;low;4;4;5;5;;220400
+P18;gpt4;low;6;5;4;5;;233980
+P18;deepseek;low;7;7;7;7;;1472368
+P18;deepseek;high;7;7;7;4;;1233754
+P18;gemini;low;7;7;7;7;;314999
+P19;gemini;low;6;6;7;7;no everything was okay;835344
+P19;gemini;high;6;6;5;5;i would have preferred if the answers were more organized like in the form of bullet points rather than paragraphs;391056
+P19;gpt4;low;6;6;6;5;the detailed plan with time was very helpful in such a trip;507351
+P19;deepseek;low;7;7;6;6;;623350
+P19;deepseek;high;6;6;7;7;;837382
+P19;claude;high;5;6;5;5;no ;242019
+P19;claude;low;7;7;7;7;the idea of including prices was very helpful and answers were short and detailed ;609102
+P19;gpt4;high;7;7;6;6;no;624273
+P20;deepseek;low;7;7;7;7;no ;309781
+P20;gpt4;high;6;5;5;6;;296258
+P20;deepseek;high;5;5;5;5;;343878
+P20;gemini;high;6;6;5;5;no thanks;478649
+P20;claude;low;7;7;7;7;no ;308215
+P20;gpt4;low;5;5;5;5;;342760
+P20;gemini;low;6;6;7;7;no thanks;805812
+P20;claude;high;7;6;6;7;no;530862
+P21;gemini;low;7;7;7;7;;482556
+P21;claude;high;6;6;6;6;;1186077
+P21;gpt4;low;7;7;7;7;;483605
+P21;deepseek;high;7;7;7;7;;475360
+P21;gemini;high;6;6;6;6;;1183849
+P21;deepseek;low;7;7;7;7;the assistant didn't recognized my first answer but then every thing was perfect;1572961
+P21;claude;low;7;7;7;7;the assistant didn't recognized my first answer but then every thing was perfect;1574747
+P21;gpt4;high;7;7;7;7;;326773
+P22;claude;low;7;7;7;7;this one by far is the best , answers are not too long and straight to the point yet gives suggestions and answers my questions and understands my responses and fast !;674475
+P22;gemini;high;7;7;7;7;;509234
+P22;gpt4;high;7;7;7;7;answeres were a bit longer than 3 but useful ;452214
+P22;gemini;low;7;7;7;7;;492740
+P22;claude;high;7;7;7;7;great like 7 but slightly longer answers ;637506
+P22;deepseek;high;7;4;7;1;slower than assistant 1 , and crashed mid conversation , and doesnt understand my answers ;901567
+P22;gpt4;low;7;7;7;7;my favorite so far , bec answers are shorter and straight to the point ;349533
+P22;deepseek;low;7;7;7;7;same as before , was good but long answers ;891518
+P23;claude;high;7;7;7;6;;302016
+P23;gpt4;low;6;5;5;5;;238473
+P23;gemini;low;7;7;7;7;The most accurate assistant so far;404780
+P23;claude;low;4;4;4;4;;242502
+P23;deepseek;high;7;7;7;7;;389681
+P23;gpt4;high;5;5;5;5;;215599
+P23;gemini;high;5;5;5;4;;446617
+P23;deepseek;low;7;7;7;7;Better than assistant 1 as it gave more detailed information without asking.;464024
+P24;gpt4;high;4;5;6;5;;202644
+P24;claude;low;4;4;4;4;Assistants responses kept timing out disnt get any answers;268563
+P24;gpt4;low;5;5;6;6;;196861
+P24;gemini;high;7;7;7;7;;284042
+P24;deepseek;high;6;6;7;7;;390390
+P24;gemini;low;7;6;6;6;;333788
+P24;deepseek;low;7;7;7;7;;476265
+P24;claude;high;4;4;4;4;All responses timed out couldnt get the responses;76588
