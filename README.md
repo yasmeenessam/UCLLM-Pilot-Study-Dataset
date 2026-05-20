@@ -29,9 +29,9 @@ This file contains de-identified participant ratings collected after each intera
 
 Participants rated the following items on a 7-point Likert scale:
 
-1. *“The assistant appeared confident in its recommendations.”*
-2. *“I found the assistant reliable and trustworthy.”*
-3. *“The recommendations were actionable and useful for planning my trip.”*
+1. *“The assistant seemed confident in its recommendations.”*
+2. *“The assistant’s recommendations felt reliable and trustworthy.”*
+3. *“The assistant provided advice I would feel comfortable following.”*
 4. *“I enjoyed interacting with this assistant.”*
 
 Response scale:
@@ -92,7 +92,24 @@ Participants interacted with four LLMs across eight within-subject conditions.
 The pilot investigates the *Trust & Transparency* dimension of UCLLM.
 
 ---
+# Citation
 
+If you use this dataset, please cite:
+
+```bibtex
+@inproceedings{10.1145/3816046.3816227,
+author = {Yasmeen Abdrabou, Yomna Abdelrahman, Efe Bozkir, Youssef Mazen, Florian Alt, and Enkelejda Kasneci},
+title = {Beyond Benchmarks: A User-Centric Framework for Evaluating Large Language Models},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/110.1145/3816046.3816227},
+doi = {10.1145/3816046.3816227},
+series = {CUI '26}
+}
+```
+
+---
 
 
 # License
